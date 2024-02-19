@@ -1,0 +1,3 @@
+import{j as s}from"./jsx-runtime-CKrituN3.js";import{C as c,B as m,T as i}from"./index-C2_JVe4K.js";import"./index-CBqU2yxZ.js";import"./_commonjsHelpers-BosuxZz1.js";import"./extends-CCbyfPlC.js";import"./index-BtM5VmRH.js";const f={title:"Form / Checkbox",component:c,tags:["autodocs"],args:{},decorators:[a=>s.jsxs(m,{as:"label",css:{display:"flex",flexDirection:"row",gap:"$2"},children:[a(),s.jsx(i,{size:"sm",children:"Accept terms of use"})]})]},r={args:{}};var o,e,t;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(t=(e=r.parameters)==null?void 0:e.docs)==null?void 0:t.source}}};const g=["Primary"];export{r as Primary,g as __namedExportsOrder,f as default};
