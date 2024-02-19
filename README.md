@@ -1,4 +1,4 @@
-# Installation and setup steps:
+# Installation and Setup Steps:
 - Run npm install to install the dependencies.
 - Run npm run dev to start the development server.
 # Development Commands:
