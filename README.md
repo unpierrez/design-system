@@ -1,7 +1,6 @@
 # Design System | Ignite 
 
-Installation and Setup
-To run the project locally, follow these steps:
+Installation and setup to run the project locally, follow these steps:
 
 # Clone the repository to your local machine.
 Navigate to the project directory.
