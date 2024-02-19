@@ -1,5 +1,11 @@
 # @i-mu-design-system/tokens
 
+## 3.0.0
+
+### Major Changes
+
+- Removing test color
+
 ## 2.0.0
 
 ### Major Changes
